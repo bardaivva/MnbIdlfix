@@ -1,0 +1,26 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "c:\\Users\\ngova\\Documents\\dev\\MinusBounce-RinbuildMinusBounce",
+			"script": "build",
+			"description": "Assembles and tests this project.",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"project": "MinusBounce",
+			"buildFile": "C:\\Users\\ngova\\Documents\\dev\\MinusBounce-Rin\\build.gradle",
+			"rootProject": "MinusBounce",
+			"projectFolder": "c:\\Users\\ngova\\Documents\\dev\\MinusBounce-Rin",
+			"workspaceFolder": "c:\\Users\\ngova\\Documents\\dev\\MinusBounce-Rin",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: build"
+		}
+	]
+}
